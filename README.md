@@ -1,5 +1,5 @@
 # File_FolderClass
-File\Folder Class structure coding example.
+File\Folder Class structure coding example. Used to show some simple class behaviour and structures.
 
 Built using Visual Studio Community 2015
 
